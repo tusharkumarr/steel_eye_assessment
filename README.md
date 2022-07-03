@@ -1,4 +1,5 @@
-# steel_eye_assessment
+# Steel_Eye_Assessment
+
 Creating an API using FastApi in python.
 
 Cretaing local server (uvicorn (app_name):app) in terminal 
